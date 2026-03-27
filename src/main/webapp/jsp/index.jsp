@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-
+<div class="wrap-div">
 <h1>My Page~</h1>
 <button >경민</button>
 <button >무영</button>
@@ -14,7 +14,7 @@
 <button >은사</button>
 <button >영운</button>
 
-
+</div>
 
 </body>
 </html>
