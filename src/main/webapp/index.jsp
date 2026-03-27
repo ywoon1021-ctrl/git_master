@@ -8,7 +8,7 @@
 <body>
 <div class="wrap-div">
 <h1>My Page~</h1>
-<button >경민</button>
+<button onclick="location.href='jsp/km.jsp'" >경민</button>
 <button >무영</button>
 <button >선형bro</button>
 <button >예진짜짜</button>
