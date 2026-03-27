@@ -12,5 +12,6 @@
 </head>
 <body>
 <button>똥</button>
+<button>뿌직</button>
 </body>
 </html>
