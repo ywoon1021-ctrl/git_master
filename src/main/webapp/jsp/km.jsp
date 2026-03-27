@@ -1,5 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
+<<<<<<< HEAD
 <head>
     <title>Kyungmin's Pixel World</title>
     <style>
@@ -184,3 +185,17 @@
 </div>
 </body>
 </html>
+=======
+  <head>
+    <title>Title</title>
+  </head>
+  <body>
+    <h1>Kyungmin's Page</h1>
+
+    <div>Kyungmin</div>
+    <input type="text" name="name" />
+    <div>Yowa</div>
+    <input type="text" name="nickname" />
+  </body>
+</html>
+>>>>>>> 4c0aa4ce8e434488530d0d7f232b4e11d0bdc035
