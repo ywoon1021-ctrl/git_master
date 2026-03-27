@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>Eunsa's Page</h1>
+<h2>let's go~~~!</h2>
 
 <div>Name</div>
 <input type="text" name="name">
