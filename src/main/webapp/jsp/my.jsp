@@ -1,4 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
+
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -83,7 +86,10 @@
 </head>
 <body>
 <h1>영운깃쨩 뽀뽀쪾💋</h1>
-<h1>프로젝트 화이팅✨</h1>
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjAxMDFfMjU2%2FMDAxNzY3MjUzNTA2MDQz.uLby2z-n2VpYgUGUoQYFYu5fu1Mv7ON5fKaU7urfVxUg.nijkwEWk1PBUSlVWzJCPzIJ2_FPFtZqvqSXN5V9PhPcg.JPEG%2FIMG%25A3%25DF5047.jpg&type=sc960_832   " alt="귀여운 뽀뽀 짤" style="width: 200px; height: auto; border-radius: 15px; margin-top: 10px;">
+
+<h1>민나 ~ 프로젝트 화이또 ✨</h1>
+
 
 <script>
     for (let i = 0; i < 50; i++) {
