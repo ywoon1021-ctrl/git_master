@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>똥 페이지</title>
+    <link rel="stylesheet" href="../css/design.css">
     <style>
         body {
             text-align: center;
