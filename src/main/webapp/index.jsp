@@ -4,6 +4,19 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
+
+    <link rel="stylesheet" href="css/design.css">
+
+    <style>
+        /* (여은사) : 이미지가 처음에 안 보이게 설정하고 크기를 조절합니다 */
+        #loveImage {
+            display: none;
+            margin-top: 20px;
+            width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+
 </head>
 <body>
 <div class="wrap-div">
