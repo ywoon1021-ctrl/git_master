@@ -14,7 +14,7 @@
       <button>선형 햄스터</button>
       <button>예진 호랑이</button>
       <button>은사랑해</button>
-      <button>영운세뽑기</button>
+      <button onclick="location.href = 'jsp/yw.jsp'">영운세뽑기</button>
     </div>
   </body>
 </html>
