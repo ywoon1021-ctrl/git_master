@@ -19,13 +19,17 @@
   <body>
     <div class="wrap-div">
       <h1>My Page~</h1>
-      <button type="button" onclick="location.href='jsp/km.jsp'">경민</button>
-      <button type="button">무영</button>
+      <button type="button" onclick="location.href='jsp/km.jsp'">경민 다람쥐</button>
+      <button type="button">무영 참새</button>
       <button type="button" onclick="location.href='jsp/sh.jsp'">선형 햄스터</button>
-      <button type="button">예진짜짜</button>
+<button onclick="location.href='jsp/yj.jsp'">예진 호랑이</button>
       <button type="button" onclick="location.href='jsp/eunsa.jsp'">은사랑해</button>
       <button type="button" onclick="location.href='jsp/yw.jsp'">영운세뽑기</button>
     </div>
   </body>
 
-  </html>
+
+</div>
+
+</body>
+</html>
