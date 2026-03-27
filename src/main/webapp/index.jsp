@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
+    <link rel="stylesheet" href="css/design.css">
 </head>
 <body>
 <div class="wrap-div">
